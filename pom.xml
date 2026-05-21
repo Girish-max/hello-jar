@@ -1,30 +1,21 @@
-<project xmlns="http://maven.apache.org/POM/4.0.0">
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0
+         http://maven.apache.org/xsd/maven-4.0.0.xsd">
 
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.example</groupId>
-<<<<<<< HEAD
 
     <artifactId>hello-jar</artifactId>
 
-=======
-    <artifactId>java-demo</artifactId>
->>>>>>> 445d8d531fa3c5b1c645dcf0f2d29ae77fdfb581
     <version>1.0</version>
 
     <packaging>jar</packaging>
 
     <properties>
-<<<<<<< HEAD
-
-        <maven.compiler.source>17</maven.compiler.source>
-
-        <maven.compiler.target>17</maven.compiler.target>
-
-=======
         <maven.compiler.source>17</maven.compiler.source>
         <maven.compiler.target>17</maven.compiler.target>
->>>>>>> 445d8d531fa3c5b1c645dcf0f2d29ae77fdfb581
     </properties>
 
 </project>
